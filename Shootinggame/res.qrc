@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/player.png</file>
+        <file>res/cloud.png</file>
+        <file>res/rain.png</file>
+        <file>res/fire.png</file>
+        <file>res/woow.jpeg</file>
+        <file>res/ko.jpg</file>
+        <file>res/crazy.png</file>
+        <file>res/blackcloud.png</file>
+        <file>res/lighten.png</file>
+        <file>res/background.jpeg</file>
+        <file>res/100.gif</file>
+        <file>res/easy.gif</file>
+        <file>res/Dontleaveme.gif</file>
+        <file>res/fighting.gif</file>
+        <file>res/ImWrong.gif</file>
+        <file>res/roll.gif</file>
+        <file>res/over.gif</file>
+        <file>res/handsome.gif</file>
+        <file>res/excuseme.gif</file>
+        <file>res/cry.gif</file>
+        <file>res/wow.gif</file>
+    </qresource>
+</RCC>
